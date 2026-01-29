@@ -13,5 +13,3 @@ O objetivo é comparar abordagens, praticar lógica de programação e entrada d
 - Shell Script (Bash)
 - Python 3
 - `bc` (para cálculos matemáticos no Bash)
-
-## 📂 Arquivos do Projeto
